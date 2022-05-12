@@ -10,7 +10,7 @@ Este é um aplicativo de calendário, em que é possível armazenar e editar inf
 ## Desenvolvimento do projeto:
 Para ver o desenvolvimento do projeto completo em vídeo:
 
-<a href = "https://asimov.academy/analise-vendas-nyc/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey" target="_blank"></a> 
+<a href = "https://asimov.academy"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey" target="_blank"></a> 
 
 ## Tecnologias Utilizadas:
 
