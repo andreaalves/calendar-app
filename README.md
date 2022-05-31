@@ -1,7 +1,7 @@
 ![8](https://user-images.githubusercontent.com/63136680/171274228-e69c6c39-77c8-46e1-b64b-2b2b8536c604.jpg)
 
 
-# Calendar app
+# Calendar App
 Este é um aplicativo de calendário em que é possível armazenar e editar informações para cada data do ano.
 
 ## 🔧 Funções
