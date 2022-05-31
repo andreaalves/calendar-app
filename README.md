@@ -2,7 +2,7 @@
 
 
 # Calendar App
-Este é um aplicativo de calendário em que é possível armazenar e editar informações para cada data do ano.
+Este é um aplicativo web de calendário em que é possível armazenar e editar informações para cada data do ano.
 
 ## 🔧 Funções
 
